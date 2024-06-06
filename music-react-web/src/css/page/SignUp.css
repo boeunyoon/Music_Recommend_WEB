@@ -1,0 +1,13 @@
+.signup-wrapper{
+    background-color: #282c34 ;
+    padding: 50px;
+    /* padding-left: 100px; */
+    /* padding-right: 100px; */
+    border-radius: 10px;
+}
+.signup-wrapper-final{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+}

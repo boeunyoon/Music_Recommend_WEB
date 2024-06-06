@@ -1,0 +1,18 @@
+.main-layout{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.profilebox{
+    background-color: #282c34;
+    border-radius: 15px;
+    margin-top: 10%;
+    margin-left: 5%;
+    padding-bottom: 30%;
+    display: flex;
+    justify-content: center;
+}
+.main-component-wrapper{
+    margin-bottom: 200px;
+}

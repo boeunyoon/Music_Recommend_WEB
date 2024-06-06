@@ -1,0 +1,20 @@
+.result-item{
+    /* background-color: #282c34; */
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.search-result-title{
+    margin-top: 3%;
+}
+.plus-icon{
+    font-size: 25px;
+}
+.plus-icon.clicked {
+    color: #3fe06a;
+}
+.heart-icon{
+    font-size: 25px;
+}

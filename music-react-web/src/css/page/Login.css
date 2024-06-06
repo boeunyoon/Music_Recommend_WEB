@@ -1,0 +1,21 @@
+.login-wrapper{
+    background-color: #282c34 ;
+    padding: 70px;
+    /* padding-left: 100px; */
+    /* padding-right: 100px; */
+    border-radius: 10px;
+}
+.form-wrapper{
+    padding: auto;
+    width: 100%;
+}
+.login-display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 40%;
+}
+.err-alert{
+    width: 100%;
+    margin-top: 10px;
+}

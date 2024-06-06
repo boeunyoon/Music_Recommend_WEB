@@ -1,0 +1,28 @@
+.top100-title{
+    margin-top: 100px;
+}
+
+.top100-table{
+    color: wheat;
+}
+.datepicker-wrraper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: right;
+    margin-bottom: 2%;
+}
+.react-datepicker__triangle{
+    transform: translate(125px, 0px) !important;
+}
+.datepicker{
+    border-radius: 8px;
+    text-align: center;
+}
+.search-btn{
+    background-color: skyblue;
+    border-radius: 8px;
+    border: none;
+    align-items: center;
+    margin-bottom: 2%;
+}

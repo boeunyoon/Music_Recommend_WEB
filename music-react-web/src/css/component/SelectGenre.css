@@ -1,0 +1,23 @@
+.card-image {
+  width: 200px;
+  height: 200px;
+}
+.wrapper-list{
+  margin-left: 3%;
+}
+.title-wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 10px;
+}
+.send-btn{
+  background-color: skyblue;
+  border-radius: 8px;
+  border: none;
+  width: 110%;
+}
+.send-btn:hover{
+  border: solid;
+}

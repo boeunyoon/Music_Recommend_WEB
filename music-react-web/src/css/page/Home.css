@@ -1,0 +1,21 @@
+.home-wrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    color: black;
+}
+.search-input{
+    /* opacity: 0.3; */
+    color: white;
+    background-color: aqua;
+}
+.search-icon{
+    color: white;
+}
+body {
+    -ms-overflow-style: none;
+}
+ 
+::-webkit-scrollbar {
+    display: none;
+}

@@ -1,0 +1,35 @@
+.playlist-image{
+    width: 60%;
+}
+.modal-title{
+    align-items: center;
+    /* background-color: black; */
+    text-align: center;
+    vertical-align: bottom;
+    padding: 30px;
+    font-size: 30px;
+}
+.track-list{
+    align-items: center;
+    margin-top: 100px;
+    padding: 10px;
+    text-align: center;
+}
+.modal-container .modal-content{
+    background-color: #393c43;
+    color: white;
+    font-size: large;
+}
+.modal-line{
+    background-color: white;
+    background: white;
+    color: white;
+    height: 2.5px;
+}
+#hr{
+    background-color: white;
+}
+.title-track{
+    text-align: center;
+    align-items: center;
+}

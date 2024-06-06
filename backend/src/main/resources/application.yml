@@ -1,0 +1,25 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/musicanalysis
+    username: root
+    password: dbsqhdms00
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        format_sql: true
+        show_sql: true
+    database: mysql
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+  logging:
+    level:
+      com.tutorial: debug
+
+jwt:
+  secret: 5266546A576E5A7234753778214125442A472D4B6150645367566B5870327335
+
+spotify:
+  client-id: 123419242a2a4303953d8292010f611d
+  client-secret: db8668b4a4bf4f3cae160b3b547fb6dc
